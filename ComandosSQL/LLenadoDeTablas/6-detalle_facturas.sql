@@ -1,0 +1,20 @@
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (1, '8', '14', 'Patacones', '$12.9');
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (2, '19', '20', 'Tequeños y malta', '$8.5');
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (3, '9', '9', 'Pastelitos y malta', '$10');
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (4, '13', '5', 'Mandocas y malta', '$11');
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (5, '14', '7', 'Macarronada', '$15');
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (6, '2', '16', 'Tumbarrancho', '$15');
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (7, '12', '3', 'Cepillado', '$2');
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (8, '4', '6', 'Arepa con huevo', '$8');
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (9, '20', '1', 'Mojito de coco', '$6');
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (10, '18', '12', 'Cazuela marinera', '$6');
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (11, '3', '19', 'Plátano lacustre', '$4');
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (12, '1', '4', 'Bollos pelones', '$8');
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (13, '17', '13', 'Escabeche costeño', '$10');
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (14, '6', '8', 'Conejo en coco', '$16');
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (15, '16', '18', 'Huevos chimbos', '$4');
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (16, '11', '15', 'Dulce de limonsón', '$4');
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (17, '15', '10', 'Hallacas', '$14')
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (18, '5', '17', 'Parrilla con yuca', '$18');
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (19, '7', '2', 'Arepa con pescado', '$9');
+insert into detalle_facturas (id_detalle_factura, id_factura, id_supervisor, plato, valor) values (20, '10', '11', 'Empanada de cazón', '$6');
